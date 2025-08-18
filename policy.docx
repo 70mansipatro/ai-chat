@@ -1,0 +1,128 @@
+POLICY_TEXT = """
+1. IT Email Information Document
+Overview
+This document outlines the IT department’s email policies and support guidelines.
+________________________________________
+Email Account Setup
+• All employees are assigned a company email in the format: firstname.lastname@acme-corp.com
+• New employee accounts are created within 24 hours of joining.
+• Email quota: 10 GB per user.
+Email Usage Policy
+• Company email is strictly for official communication.
+• Personal emails should be avoided to maintain confidentiality.
+• Do not forward confidential emails outside the organization.
+• Email attachments must be scanned before sending.
+Email Access
+• Supported platforms: Outlook Desktop App, Outlook Web Access, Mobile Mail Apps.
+• Remote access requires VPN connection using company VPN client.
+• VPN credentials are provided by IT upon joining.
+Password Policy
+• Passwords must be at least 10 characters long, including uppercase, lowercase, numbers, and symbols.
+• Passwords expire every 90 days.
+• Multi-factor authentication (MFA) is mandatory for all accounts.
+IT Support Contacts
+• Email: it-support@acme-corp.com
+• Phone: +91-98765-43210
+• Support Hours: 9:00 AM to 7:00 PM, Monday to Friday
+• Emergency support available 24x7 via hotline: +91-99999-99999
+Troubleshooting Common Issues
+• For email sync issues: restart Outlook and verify VPN connection.
+• If unable to login: reset password via https://password.acme-corp.com
+• Spam or phishing email should be reported to it-security@acme-corp.com immediately.
+________________________________________
+2. HR Policy Information Document
+Overview
+This document details all human resource policies applicable to employees.
+________________________________________
+Leave Policy
+• Casual Leave (CL): 12 days per year
+• Sick Leave (SL): 10 days per year
+• Earned Leave (EL): 20 days per year
+• Leave requests must be submitted via the HR portal 5 days prior to the leave date.
+• Leave approvals are subject to manager’s discretion.
+Working Hours and Attendance
+• Official working hours: 9:30 AM to 6:30 PM, Monday to Friday
+• Flexible work hours between 9:00 AM and 10:00 AM allowed.
+• Attendance is recorded via biometric scanner at main entrance.
+• Overtime must be approved and compensated at 1.5x hourly rate.
+Code of Conduct
+• Respectful behavior towards colleagues is mandatory.
+• Zero tolerance for harassment or discrimination of any kind.
+• Formal dress code from Monday to Thursday, casual Fridays allowed.
+Performance Review Process
+• Annual performance reviews conducted in December.
+• KPIs include project delivery, teamwork, and punctuality.
+• Feedback is given quarterly during 1-on-1 sessions.
+Employee Benefits
+• Health insurance coverage of up to ₹5,00,000 annually.
+• Provident Fund contribution of 12% of basic salary by company and employee.
+• Annual company-sponsored wellness programs.
+HR Contacts
+• Email: hr@acme-corp.com
+• Phone: +91-91234-56789
+• Working hours: 9:00 AM to 6:00 PM
+________________________________________
+3. Food Policy Information Document
+Overview
+Details on food services and policies for employees.
+________________________________________
+Canteen Timings
+• Open: 8:00 AM to 10:00 AM (Breakfast)
+• Open: 12:30 PM to 2:30 PM (Lunch)
+• Open: 6:30 PM to 8:00 PM (Snacks & Tea)
+Food Subsidy
+• Employees receive a 40% subsidy on all canteen food items.
+• Subsidy eligibility requires minimum 6 months of service.
+Hygiene and Safety
+• All food is prepared in certified hygienic kitchens.
+• Employees are encouraged to use hand sanitizers before entering the canteen.
+• Monthly kitchen inspections are conducted by the Facilities team.
+Special Diets
+• Vegetarian, vegan, and gluten-free options are available daily.
+• Employees can submit special diet requests to canteen@acme-corp.com with 48 hours advance notice.
+Rules and Regulations
+• Outside food is not permitted inside office premises.
+• Employees must dispose of waste in designated bins.
+• No smoking allowed within 50 meters of the canteen.
+Canteen Contact
+• Email: canteen@acme-corp.com
+• Phone: Ext. 2056
+________________________________________
+4. Bike Policy Information Document
+Overview
+Rules and regulations for bike usage and parking on company premises.
+________________________________________
+Parking Guidelines
+• Bike parking zones are located near Gate 1 and Gate 3.
+• Parking permits are mandatory, issued annually by Transport department.
+• Unauthorized bikes will be towed after 7 days of warning.
+Security Rules
+• Employees must lock their bikes securely; the company is not responsible for theft.
+• Insurance for bikes is recommended but not provided by company.
+• Report suspicious activity to security@acme-corp.com immediately.
+Speed Limits
+• Maximum speed limit on campus roads: 20 km/h.
+• Strict adherence to speed limits is mandatory to ensure safety.
+Access Timings
+• Bikes allowed on premises from 7:00 AM to 9:00 PM only.
+• No bikes allowed overnight in parking zones.
+Maintenance Support
+• Onsite bike repair service available every Wednesday, 10:00 AM to 3:00 PM near Gate 2.
+• Transport@acme-corp.com handles maintenance inquiries.
+Contact Info
+• Email: transport@acme-corp.com
+• Phone: +91-98765-43211
+• Security desk: +91-91111-22222
+________________________________________
+5. Different Contact Information Document
+Overview
+Quick reference contact information for various departments.
+________________________________________
+Department	Email	Phone	Timing
+IT Helpdesk	it-support@acme-corp.com	+91-98765-43210	9 AM - 7 PM
+HR Department	hr@acme-corp.com	+91-91234-56789	9 AM - 6 PM
+Facilities	facilities@acme-corp.com	+91-99887-66554	8 AM - 5 PM
+Security	security@acme-corp.com	+91-91111-22222	24x7
+Canteen	canteen@acme-corp.com	Ext. 2056	8 AM - 8 PM
+Transport	transport@acme-corp.com	+91-98765-43211	9 AM - 5 PM
+"""
